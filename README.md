@@ -36,17 +36,13 @@ Une plateforme intelligente de gestion des déchets combinant **Next.js 14**, **
 npx create-next-app@latest waste-management-ai --typescript
 cd waste-management-ai
 2. 🎨 Intégration de Tailwind CSS
-bash
-Copier
-Modifier
+
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 Configurer tailwind.config.ts et ajouter les styles globaux dans globals.css.
 
 3. 🔐 Authentification avec Web3Auth
-bash
-Copier
-Modifier
+
 npm install --save @web3auth/modal
 Implémenter dans _app.tsx avec les clés Web3Auth.
 
@@ -54,9 +50,7 @@ Implémenter dans _app.tsx avec les clés Web3Auth.
 Utiliser les API de Gemini pour analyser des images/textes envoyés par les utilisateurs et vérifier la conformité des déchets.
 
 5. 🧩 Intégration de la base de données avec Drizzle ORM
-bash
-Copier
-Modifier
+
 npm install drizzle-orm
 Configurer les schémas et connecter la base de données Neon.
 
