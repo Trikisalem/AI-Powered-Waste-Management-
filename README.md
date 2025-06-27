@@ -70,16 +70,25 @@ Configurer les schémas et connecter la base de données Neon.
 🎁 Système de récompenses dynamiques
 ## 🖼️ Aperçu du projet
 
-| Interface 1 | Interface 2 |
-|-------------|-------------|
-| ![1](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/1.png) | ![2](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/2.png) |
+<h2 align="center">🖼️ Aperçu du Projet</h2>
 
-| Interface 3 | Interface 4 |
-|-------------|-------------|
-| ![3](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/3.png) | ![4](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/4.png) |
-
-| Interface 5 | Interface 6 |
-|-------------|-------------|
-| ![5](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/5.png) | ![6](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/6.png) |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/1.png" alt="Aperçu 1" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/2.png" alt="Aperçu 2" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/3.png" alt="Aperçu 3" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/4.png" alt="Aperçu 4" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/5.png" alt="Aperçu 5" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/6.png" alt="Aperçu 6" width="600"/>
+</p>
 
 
