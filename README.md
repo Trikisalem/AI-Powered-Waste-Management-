@@ -68,10 +68,18 @@ Configurer les schémas et connecter la base de données Neon.
 🚛 Suivi des collectes
 
 🎁 Système de récompenses dynamiques
-![Aperçu 1](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/1.png)
-![Aperçu 2](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/2.png)
-![Aperçu 3](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/3.png)
-![Aperçu 4](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/4.png)
-![Aperçu 5](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/5.png)
-![Aperçu 6](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/6.png)
+## 🖼️ Aperçu du projet
+
+| Interface 1 | Interface 2 |
+|-------------|-------------|
+| ![1](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/1.png) | ![2](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/2.png) |
+
+| Interface 3 | Interface 4 |
+|-------------|-------------|
+| ![3](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/3.png) | ![4](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/4.png) |
+
+| Interface 5 | Interface 6 |
+|-------------|-------------|
+| ![5](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/5.png) | ![6](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/6.png) |
+
 
