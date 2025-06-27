@@ -68,9 +68,10 @@ Configurer les schémas et connecter la base de données Neon.
 🚛 Suivi des collectes
 
 🎁 Système de récompenses dynamiques
-![Aperçu 1](https://github.com/Trikisalem/AI-Powered-Waste-Management-/raw/main/1.png)
-![Aperçu 2](https://github.com/Trikisalem/AI-Powered-Waste-Management-/raw/main/2.png)
-![Aperçu 3](https://github.com/Trikisalem/AI-Powered-Waste-Management-/raw/main/3.png)
-![Aperçu 4](https://github.com/Trikisalem/AI-Powered-Waste-Management-/raw/main/4.png)
-![Aperçu 5](https://github.com/Trikisalem/AI-Powered-Waste-Management-/raw/main/5.png)
-![Aperçu 6](https://github.com/Trikisalem/AI-Powered-Waste-Management-/raw/main/6.png)
+![Aperçu 1](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/1.png)
+![Aperçu 2](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/2.png)
+![Aperçu 3](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/3.png)
+![Aperçu 4](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/4.png)
+![Aperçu 5](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/5.png)
+![Aperçu 6](https://raw.githubusercontent.com/Trikisalem/AI-Powered-Waste-Management-/main/6.png)
+
